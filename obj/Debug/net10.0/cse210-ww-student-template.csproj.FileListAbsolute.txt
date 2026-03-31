@@ -1,0 +1,14 @@
+C:\Users\HSEF\OneDrive\Desktop\cse210-ww-student-template\bin\Debug\net10.0\cse210-ww-student-template.exe
+C:\Users\HSEF\OneDrive\Desktop\cse210-ww-student-template\bin\Debug\net10.0\cse210-ww-student-template.deps.json
+C:\Users\HSEF\OneDrive\Desktop\cse210-ww-student-template\bin\Debug\net10.0\cse210-ww-student-template.runtimeconfig.json
+C:\Users\HSEF\OneDrive\Desktop\cse210-ww-student-template\bin\Debug\net10.0\cse210-ww-student-template.dll
+C:\Users\HSEF\OneDrive\Desktop\cse210-ww-student-template\bin\Debug\net10.0\cse210-ww-student-template.pdb
+C:\Users\HSEF\OneDrive\Desktop\cse210-ww-student-template\obj\Debug\net10.0\cse210-ww-student-template.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HSEF\OneDrive\Desktop\cse210-ww-student-template\obj\Debug\net10.0\cse210-ww-student-template.AssemblyInfoInputs.cache
+C:\Users\HSEF\OneDrive\Desktop\cse210-ww-student-template\obj\Debug\net10.0\cse210-ww-student-template.AssemblyInfo.cs
+C:\Users\HSEF\OneDrive\Desktop\cse210-ww-student-template\obj\Debug\net10.0\cse210-ww-student-template.csproj.CoreCompileInputs.cache
+C:\Users\HSEF\OneDrive\Desktop\cse210-ww-student-template\obj\Debug\net10.0\cse210-ww-student-template.dll
+C:\Users\HSEF\OneDrive\Desktop\cse210-ww-student-template\obj\Debug\net10.0\refint\cse210-ww-student-template.dll
+C:\Users\HSEF\OneDrive\Desktop\cse210-ww-student-template\obj\Debug\net10.0\cse210-ww-student-template.pdb
+C:\Users\HSEF\OneDrive\Desktop\cse210-ww-student-template\obj\Debug\net10.0\cse210-ww-student-template.genruntimeconfig.cache
+C:\Users\HSEF\OneDrive\Desktop\cse210-ww-student-template\obj\Debug\net10.0\ref\cse210-ww-student-template.dll
