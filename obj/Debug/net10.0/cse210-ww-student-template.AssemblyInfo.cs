@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cse210-ww-student-template")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23ee985c53f1751bf9589fde289900d591259e87")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48b78b1433119676bbcc45067825821cec38f916")]
 [assembly: System.Reflection.AssemblyProductAttribute("cse210-ww-student-template")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cse210-ww-student-template")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
